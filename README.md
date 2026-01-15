@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://t.me/Team_Dns_Network"><img src="https://files.catbox.moe/3hwjgi.jpg" height="270" width="480" alt="Shiv Music"/></a>
+<a href="https://t.me/Amazonmusicnetwork"><img src="https://files.catbox.moe/3hwjgi.jpg" height="270" width="480" alt="Shiv Music"/></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ Click the button below to easily deploy **Dns Music Bot** on Heroku!
 <h2>🌐 Updates & Support</h2>
 <p title="Support">You can join ShivMusic's official Telegram channel and group on Telegram for any updates and support-related issues of ShivMusic.</p>
 
-- Telegram Updates: [**`@Team_Dns_Network`**](https://t.me/Team_Dns_Network)
+- Telegram Updates: [**`@Amazonmusicnetwork`**](https://t.me/Amazonmusicnetwork)
 - Telegram Support: [**`@Dns_support_group`**](https://t.me/dns_support_group)
 
 <h2>📑 Acknowledgement / Credits</h2>
